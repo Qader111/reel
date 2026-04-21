@@ -11495,17 +11495,18 @@
   },
   {
     "id": 730,
-    "title": "DEkh zara pyar say",
+    "title": "Dekh Zara Pyar Se",
     "platform": "Pak Drama",
     "rating": null,
     "seasons_watched": null,
     "status": "unwatched",
     "watched": false,
-    "tmdb_id": null,
-    "poster": null,
-    "overview": null,
-    "matched_title": null,
-    "year": null
+    "tmdb_id": 314214,
+    "poster": "https://image.tmdb.org/t/p/w500/9rV93zL30quOFs8XiqVY5CI39cI.jpg",
+    "overview": "Dekh Zara Pyar Se is a heartfelt love story about two guarded souls shaped by loss and distance.\n\nRomaila, raised away from her parents after their separation, grows up valuing independence over emotional dependence. Zoraiz Ali Khan, an ambitious advertising professional who lost his parents young, believes in discipline, dignity, and meaningful relationships. As family expectations and life-altering decisions surround them, fate slowly draws their worlds together.\n\nWill love become their strength or their greatest test?",
+    "matched_title": "Dekh Zara Pyar Se",
+    "year": "2026",
+    "tmdb_type": "tv"
   },
   {
     "id": 731,
