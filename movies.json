@@ -1,17 +1,18 @@
 [
   {
     "id": 1,
-    "title": "O Rangrezza",
+    "title": "O Rangreza",
     "platform": "Pak drama",
     "rating": 6,
     "seasons_watched": null,
     "status": "watched",
     "watched": true,
-    "tmdb_id": null,
-    "poster": null,
-    "overview": null,
-    "matched_title": null,
-    "year": null
+    "tmdb_id": 76017,
+    "poster": "https://image.tmdb.org/t/p/w500/bXGx9eeoZ7Kkar2xp1ipPYxYmNU.jpg",
+    "overview": "The story is of stubborn girl, Sassi , who makes her father Khayyam ideal and follows his footsteps and treats her mother Mumtaz \"Mammo\" exactly like how Khayyam treats her.",
+    "matched_title": "O Rangreza",
+    "year": "2017",
+    "tmdb_type": "tv"
   },
   {
     "id": 2,
@@ -85,11 +86,12 @@
     "seasons_watched": null,
     "status": "watched",
     "watched": true,
-    "tmdb_id": null,
-    "poster": null,
-    "overview": null,
-    "matched_title": null,
-    "year": null
+    "tmdb_id": 69504,
+    "poster": "https://image.tmdb.org/t/p/w500/poiO705KRR4L8gkTeQNhJJr9ylX.jpg",
+    "overview": "A young college graduate from a modern elite family from Islamabad falls in love with the daughter of an Imam.",
+    "matched_title": "God and Love",
+    "year": "2011",
+    "tmdb_type": "tv"
   },
   {
     "id": 7,
