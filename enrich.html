@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>Enrich movies.json · QJ's Reel</title>
+<style>
+* { box-sizing: border-box; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  background: #0b0b0d;
+  color: #f3efe6;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 40px 24px;
+  line-height: 1.5;
+}
+h1 {
+  font-family: Georgia, serif;
+  font-weight: 300;
+  font-size: 36px;
+  margin: 0 0 8px;
+  letter-spacing: -0.02em;
+}
+.sub { color: #a5a196; margin: 0 0 32px; }
+.card {
+  background: #15151a;
+  border: 1px solid #26262d;
+  border-radius: 12px;
+  padding: 24px;
+  margin: 16px 0;
+}
+label { display: block; font-size: 13px; color: #a5a196; text-transform: uppercase; letter-spacing: 0.12em; margin-bottom: 8px; }
+input[type="password"], input[type="text"] {
+  width: 100%;
+  padding: 12px 14px;
+  background: #0b0b0d;
+  border: 1px solid #26262d;
+  border-radius: 8px;
+  color: #f3efe6;
+  font-family: ui-monospace, monospace;
+  font-size: 13px;
+  outline: none;
+}
+input:focus { border-color: #c96e4a; }
+button {
+  background: #c96e4a;
+  color: #1a0e08;
+  border: 0;
+  padding: 14px 24px;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 15px;
+  cursor: pointer;
+  transition: background .2s, transform .1s;
+}
+button:hover:not(:disabled) { background: #dd7f5a; }
+button:active { transform: translateY(1px); }
+button:disabled { opacity: 0.5; cursor: not-allowed; }
+.btn-secondary { background: #26262d; color: #f3efe6; }
+.btn-secondary:hover:not(:disabled) { background: #333; }
+.progress {
+  width: 100%;
+  height: 10px;
+  background: #26262d;
+  border-radius: 5px;
+  overflow: hidden;
+  margin: 16px 0;
+}
+.progress-bar {
+  height: 100%;
+  background: linear-gradient(90deg, #c96e4a, #e8a87c);
+  transition: width .2s;
+}
+.stats {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 12px;
+  margin: 16px 0;
+}
+.stat {
+  background: #0b0b0d;
+  padding: 14px;
+  border-radius: 8px;
+  border: 1px solid #26262d;
+}
+.stat .n { font-size: 28px; font-weight: 600; }
+.stat .l { font-size: 11px; text-transform: uppercase; letter-spacing: 0.1em; color: #a5a196; }
+.log {
+  background: #0b0b0d;
+  border: 1px solid #26262d;
+  border-radius: 8px;
+  padding: 16px;
+  max-height: 400px;
+  overflow-y: auto;
+  font-family: ui-monospace, monospace;
+  font-size: 12px;
+  line-height: 1.7;
+}
+.log .match { color: #8fd694; }
+.log .miss  { color: #e89c5a; }
+.log .err   { color: #e06363; }
+.log .info  { color: #a5a196; }
+.hidden { display: none; }
+code { background: #26262d; padding: 2px 6px; border-radius: 3px; font-size: 12px; }
+.help { color: #a5a196; font-size: 14px; margin-top: 12px; }
+.help a { color: #c96e4a; }
+</style>
+</head>
+<body>
+
+<h1>Enrich <code>movies.json</code></h1>
+<p class="sub">One-time tool to fetch posters & descriptions from TMDB for all your entries.</p>
+
+<div class="card">
+  <label for="token">TMDB API Read Access Token</label>
+  <input type="password" id="token" placeholder="eyJhbGciOiJIUzI1NiJ9...." autocomplete="off" />
+  <p class="help">Don't have one? Get a free token at <a href="https://www.themoviedb.org/settings/api" target="_blank">themoviedb.org/settings/api</a></p>
+</div>
+
+<div class="card">
+  <label>Input file</label>
+  <p style="margin:0 0 12px;color:#a5a196;font-size:14px;">
+    Uses <code>movies.json</code> from the same folder as this page by default, or upload a different one:
+  </p>
+  <input type="file" id="file-input" accept="application/json" />
+</div>
+
+<div class="card">
+  <button id="start-btn">Start enriching →</button>
+  <button id="download-btn" class="btn-secondary hidden" style="margin-left:8px;">Download enriched movies.json</button>
+</div>
+
+<div id="progress-card" class="card hidden">
+  <div class="progress"><div class="progress-bar" id="bar" style="width:0%"></div></div>
+  <div class="stats">
+    <div class="stat"><div class="n" id="s-processed">0</div><div class="l">Processed</div></div>
+    <div class="stat"><div class="n" id="s-matched">0</div><div class="l">Matched</div></div>
+    <div class="stat"><div class="n" id="s-missed">0</div><div class="l">No match</div></div>
+    <div class="stat"><div class="n" id="s-remaining">0</div><div class="l">Remaining</div></div>
+  </div>
+  <div class="log" id="log"></div>
+</div>
+
+<script>
+const BASE = "https://api.themoviedb.org/3";
+const IMG_BASE = "https://image.tmdb.org/t/p/w500";
+
+const $ = (id) => document.getElementById(id);
+const log = (msg, cls = "info") => {
+  const el = $("log");
+  const line = document.createElement("div");
+  line.className = cls;
+  line.textContent = msg;
+  el.appendChild(line);
+  el.scrollTop = el.scrollHeight;
+};
+
+let sourceData = null;
+let enrichedData = null;
+
+async function loadSourceFromServer() {
+  try {
+    const res = await fetch("movies.json");
+    if (!res.ok) return null;
+    return await res.json();
+  } catch {
+    return null;
+  }
+}
+
+$("file-input").addEventListener("change", async (e) => {
+  const f = e.target.files[0];
+  if (!f) return;
+  const text = await f.text();
+  sourceData = JSON.parse(text);
+  log(`Loaded ${sourceData.length} entries from uploaded file.`);
+});
+
+// Normalize title to improve search hit rate
+function cleanForSearch(title) {
+  return title
+    .replace(/\(.*?\)/g, "")            // strip parens content
+    .replace(/\bS\d+(-S?\d+)?\b/gi, "") // strip "S1-S4" etc.
+    .replace(/\bSeason\s*\d+.*$/i, "")  // strip "Season 1-4"
+    .replace(/\ball seasons\b/gi, "")
+    .replace(/[:–—-].*$/, "")           // strip after colon/dash (often subtitle noise)
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+async function searchTMDB(title, token) {
+  const q = cleanForSearch(title);
+  if (!q) return null;
+  const url = `${BASE}/search/multi?query=${encodeURIComponent(q)}&include_adult=false`;
+  const res = await fetch(url, {
+    headers: { Authorization: `Bearer ${token}`, accept: "application/json" }
+  });
+  if (!res.ok) throw new Error(`TMDB ${res.status}`);
+  const data = await res.json();
+  const results = (data.results || []).filter(r => r.media_type === "movie" || r.media_type === "tv");
+  if (!results.length) return null;
+  // Prefer results with posters and higher popularity
+  results.sort((a, b) => {
+    const aScore = (a.poster_path ? 10 : 0) + (a.popularity || 0);
+    const bScore = (b.poster_path ? 10 : 0) + (b.popularity || 0);
+    return bScore - aScore;
+  });
+  const r = results[0];
+  return {
+    tmdb_id: r.id,
+    tmdb_type: r.media_type,
+    matched_title: r.title || r.name,
+    year: (r.release_date || r.first_air_date || "").slice(0, 4) || null,
+    poster: r.poster_path ? IMG_BASE + r.poster_path : null,
+    overview: r.overview || null,
+    tmdb_score: r.vote_average || null,
+  };
+}
+
+async function enrichAll(token) {
+  $("progress-card").classList.remove("hidden");
+  $("start-btn").disabled = true;
+
+  let matched = 0, missed = 0;
+  const out = [];
+  const total = sourceData.length;
+
+  for (let i = 0; i < total; i++) {
+    const m = sourceData[i];
+    let enrich = null;
+    try {
+      enrich = await searchTMDB(m.title, token);
+    } catch (e) {
+      log(`[${i+1}] ERROR "${m.title}" — ${e.message}`, "err");
+    }
+
+    if (enrich) {
+      matched++;
+      out.push({ ...m, ...enrich });
+      log(`[${i+1}] ✓ "${m.title}" → ${enrich.matched_title}${enrich.year ? ` (${enrich.year})` : ""}`, "match");
+    } else {
+      missed++;
+      out.push({ ...m, tmdb_id: null, poster: null, overview: null, matched_title: null, year: null });
+      log(`[${i+1}] ✗ "${m.title}" — no match`, "miss");
+    }
+
+    const processed = i + 1;
+    $("s-processed").textContent = processed;
+    $("s-matched").textContent = matched;
+    $("s-missed").textContent = missed;
+    $("s-remaining").textContent = total - processed;
+    $("bar").style.width = `${(processed / total * 100).toFixed(1)}%`;
+
+    // Gentle throttle — 30 req/sec keeps us under TMDB's 50/sec limit
+    await new Promise(r => setTimeout(r, 33));
+  }
+
+  enrichedData = out;
+  log(`\n—— DONE —— matched ${matched}/${total} (${(matched/total*100).toFixed(1)}%)`, "info");
+  $("download-btn").classList.remove("hidden");
+  $("start-btn").disabled = false;
+  $("start-btn").textContent = "Re-run";
+}
+
+$("start-btn").addEventListener("click", async () => {
+  const token = $("token").value.trim();
+  if (!token) { alert("Please paste your TMDB token first."); return; }
+
+  if (!sourceData) {
+    log("Loading movies.json from server…");
+    sourceData = await loadSourceFromServer();
+    if (!sourceData) {
+      alert("Couldn't load movies.json. Please upload it using the file picker above.");
+      return;
+    }
+    log(`Loaded ${sourceData.length} entries.`);
+  }
+
+  try {
+    await enrichAll(token);
+  } catch (e) {
+    log(`Fatal: ${e.message}`, "err");
+    $("start-btn").disabled = false;
+  }
+});
+
+$("download-btn").addEventListener("click", () => {
+  const blob = new Blob([JSON.stringify(enrichedData, null, 2)], { type: "application/json" });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement("a");
+  a.href = url;
+  a.download = "movies.json";
+  a.click();
+  URL.revokeObjectURL(url);
+});
+</script>
+</body>
+</html>
