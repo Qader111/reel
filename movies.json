@@ -11541,16 +11541,17 @@
   },
   {
     "id": 733,
-    "title": "Aik aur pakizah",
+    "title": "Aik Aur Pakeezah",
     "platform": "pak drama",
     "rating": null,
     "seasons_watched": null,
     "status": "unwatched",
     "watched": false,
-    "tmdb_id": null,
-    "poster": null,
-    "overview": null,
-    "matched_title": null,
-    "year": null
+    "tmdb_id": 310583,
+    "poster": "https://image.tmdb.org/t/p/w500/9PqmTf9GTSaJkGAIVc6BvETU0QO.jpg",
+    "overview": "A young woman's life changes dramatically as she faces cybercrime challenges in a world where privacy is vulnerable and reputations can be instantly destroyed.",
+    "matched_title": "Aik Aur Pakeezah",
+    "year": "2026",
+    "tmdb_type": "tv"
   }
 ]
