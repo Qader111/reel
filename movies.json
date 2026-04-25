@@ -11557,5 +11557,20 @@
     "matched_title": "Aik Aur Pakeezah",
     "year": "2026",
     "tmdb_type": "tv"
+  },
+  {
+    "id": 734,
+    "title": "Shang-Chi and the Legend of the Ten Rings",
+    "platform": "Disney Plus",
+    "rating": 6.5,
+    "seasons_watched": null,
+    "status": "watched",
+    "watched": true,
+    "poster": "https://image.tmdb.org/t/p/w500/9f2Q0U3IOsLgrI2HkvldwSABZy5.jpg",
+    "overview": "Shang-Chi must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization.",
+    "year": "2021",
+    "matched_title": "Shang-Chi and the Legend of the Ten Rings",
+    "tmdb_id": 566525,
+    "tmdb_type": "movie"
   }
 ]
