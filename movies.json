@@ -11572,5 +11572,50 @@
     "matched_title": "Shang-Chi and the Legend of the Ten Rings",
     "tmdb_id": 566525,
     "tmdb_type": "movie"
+  },
+  {
+    "id": 735,
+    "title": "Schindler's List",
+    "platform": null,
+    "rating": null,
+    "seasons_watched": null,
+    "status": "unwatched",
+    "watched": false,
+    "poster": "https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+    "overview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+    "year": "1993",
+    "matched_title": "Schindler's List",
+    "tmdb_id": 424,
+    "tmdb_type": "movie"
+  },
+  {
+    "id": 736,
+    "title": "Children of Men",
+    "platform": null,
+    "rating": null,
+    "seasons_watched": null,
+    "status": "unwatched",
+    "watched": false,
+    "poster": "https://image.tmdb.org/t/p/w500/lQcXgb0fFzffnLV5WY0Q0X2WW7E.jpg",
+    "overview": "In 2027, in a chaotic world in which humans can no longer procreate, a former activist agrees to help transport a miraculously pregnant woman to a sanctuary at sea, where her child's birth may help scientists save the future of humankind.",
+    "year": "2006",
+    "matched_title": "Children of Men",
+    "tmdb_id": 9693,
+    "tmdb_type": "movie"
+  },
+  {
+    "id": 737,
+    "title": "The Town",
+    "platform": "Hbo Max",
+    "rating": null,
+    "seasons_watched": null,
+    "status": "unwatched",
+    "watched": false,
+    "poster": "https://image.tmdb.org/t/p/w500/3NIzyXkfylsjflRKSz8Fts3lXzm.jpg",
+    "overview": "Doug MacRay is a longtime thief, who, smarter than the rest of his crew, is looking for his chance to exit the game. When a bank job leads to the group kidnapping an attractive branch manager, he takes on the role of monitoring her – but their burgeoning relationship threatens to unveil the identities of Doug and his crew to the FBI Agent who is on their case.",
+    "year": "2010",
+    "matched_title": "The Town",
+    "tmdb_id": 23168,
+    "tmdb_type": "movie"
   }
 ]
