@@ -11617,5 +11617,20 @@
     "matched_title": "The Town",
     "tmdb_id": 23168,
     "tmdb_type": "movie"
+  },
+  {
+    "id": 738,
+    "title": "Eternals",
+    "platform": "Disney Plus",
+    "rating": 5.5,
+    "seasons_watched": null,
+    "status": "watched",
+    "watched": true,
+    "poster": "https://image.tmdb.org/t/p/w500/lFByFSLV5WDJEv3KabbdAF959F2.jpg",
+    "overview": "The Eternals are a team of ancient aliens who have been living on Earth in secret for thousands of years. When an unexpected tragedy forces them out of the shadows, they are forced to reunite against mankind’s most ancient enemy, the Deviants.",
+    "year": "2021",
+    "matched_title": "Eternals",
+    "tmdb_id": 524434,
+    "tmdb_type": "movie"
   }
 ]
