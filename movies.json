@@ -11632,5 +11632,20 @@
     "matched_title": "Eternals",
     "tmdb_id": 524434,
     "tmdb_type": "movie"
+  },
+  {
+    "id": 739,
+    "title": "Doctor Strange in the Multiverse of Madness",
+    "platform": "Disney Plus",
+    "rating": 6,
+    "seasons_watched": null,
+    "status": "watched",
+    "watched": true,
+    "poster": "https://image.tmdb.org/t/p/w500/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg",
+    "overview": "Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.",
+    "year": "2022",
+    "matched_title": "Doctor Strange in the Multiverse of Madness",
+    "tmdb_id": 453395,
+    "tmdb_type": "movie"
   }
 ]
