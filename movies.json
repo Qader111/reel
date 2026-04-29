@@ -896,11 +896,11 @@
     "seasons_watched": null,
     "status": "watched",
     "watched": true,
-    "tmdb_id": 990839,
-    "tmdb_type": "movie",
-    "matched_title": "Shatrur Muqabila",
+    "tmdb_id": 101473,
+    "tmdb_type": "tv",
+    "matched_title": "Muqabil",
     "year": "2002",
-    "poster": "https://image.tmdb.org/t/p/w500/i4ofvMtsQgkj4TbRpjhB8ldEbwI.jpg",
+    "poster": null,
     "overview": "Awbhoy is an honest man who wants nothing other than becoming a police officer. While his training is in progress, he falls madly in love with a young woman who has a job interview.",
     "tmdb_score": null
   },
@@ -922,7 +922,7 @@
   },
   {
     "id": 59,
-    "title": "Toh Dil ka Kia hua",
+    "title": "Tau Dil Ka Kia Hua",
     "platform": "Pak drama",
     "rating": 5,
     "seasons_watched": null,
@@ -930,7 +930,7 @@
     "watched": true,
     "tmdb_id": null,
     "poster": null,
-    "overview": null,
+    "overview": "Tau Dil Ka Kia Hua (lit. So What Became of the Heart?) is a Pakistani television series aired on 2 July 2017 on Hum TV replacing Sammi. It stars an ensemble cast including Zahid Ahmed, Sami Khan, Ayeza Khan, Mansha Pasha, Imran Ashraf and Hajra Yamin in leads.[1] The series ended on 18 February 2018.[2][3]\n\nWritten by Khalil-ur-Rehman Qamar, the serial is directed by Shahid Shafat.[4] It is produced by Sana Shahnawaz, Samina Humayun Saeed and Tariq Shah in Next Level Productions.[5]",
     "matched_title": null,
     "year": null
   },
@@ -978,7 +978,7 @@
     "tmdb_type": "tv",
     "matched_title": "Pukaar: Call for the Hero",
     "year": "2014",
-    "poster": "https://image.tmdb.org/t/p/w500/fTJ1q2T6DWnFbtW5MdHkvZ2EpwL.jpg",
+    "poster": null,
     "overview": "Major Rajveer combats the mafia in Mumbai, even as he sets out on a personal journey to win his father’s love.",
     "tmdb_score": null
   },
