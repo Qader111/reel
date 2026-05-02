@@ -11655,5 +11655,20 @@
     "matched_title": "Doctor Strange in the Multiverse of Madness",
     "tmdb_id": 453395,
     "tmdb_type": "movie"
+  },
+  {
+    "id": 740,
+    "title": "Thor Love and Thunder",
+    "platform": "Disney Plus",
+    "rating": 4.5,
+    "seasons_watched": null,
+    "status": "watched",
+    "watched": true,
+    "poster": "https://image.tmdb.org/t/p/w500/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+    "overview": "After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor Odinson enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.",
+    "year": "2022",
+    "matched_title": "Thor: Love and Thunder",
+    "tmdb_id": 616037,
+    "tmdb_type": "movie"
   }
 ]
