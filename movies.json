@@ -11670,5 +11670,20 @@
     "matched_title": "Thor: Love and Thunder",
     "tmdb_id": 616037,
     "tmdb_type": "movie"
+  },
+  {
+    "id": 741,
+    "title": "Thunderbolts*",
+    "platform": "Disney Plus",
+    "rating": 7,
+    "seasons_watched": null,
+    "status": "watched",
+    "watched": true,
+    "poster": "https://image.tmdb.org/t/p/w500/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg",
+    "overview": "After finding themselves ensnared in a death trap, seven disillusioned castoffs must embark on a dangerous mission that will force them to confront the darkest corners of their pasts.",
+    "year": "2025",
+    "matched_title": "Thunderbolts*",
+    "tmdb_id": 986056,
+    "tmdb_type": "movie"
   }
 ]
