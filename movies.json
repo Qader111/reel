@@ -11142,17 +11142,18 @@
   },
   {
     "id": 707,
-    "title": "Sanwal Yaar Piya Episode",
+    "title": "Sanwal Yaar Piya",
     "platform": "Pakistani Drama",
     "rating": null,
     "seasons_watched": null,
     "status": "unwatched",
     "watched": false,
-    "tmdb_id": null,
-    "poster": null,
-    "overview": null,
-    "matched_title": null,
-    "year": null
+    "tmdb_id": 300202,
+    "poster": "https://image.tmdb.org/t/p/w500/jTC9kBWdyCY3nUM7yd6Gw4Vad0d.jpg",
+    "overview": "Sanwal Yaar Piya is a tale of love, fate, and the tangled lives of three individuals—Sanwal, Aliyaar, and Piya. Their destinies collide amidst challenges of loyalty, sacrifice, and a complicated past.",
+    "matched_title": "Sanwal Yaar Piya",
+    "year": "2025",
+    "tmdb_type": "tv"
   },
   {
     "id": 708,
