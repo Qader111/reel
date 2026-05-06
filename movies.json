@@ -11700,5 +11700,20 @@
     "matched_title": "The Fantastic 4: First Steps",
     "tmdb_id": 617126,
     "tmdb_type": "movie"
+  },
+  {
+    "id": 743,
+    "title": "Lord of the Flies",
+    "platform": "Netflix",
+    "rating": null,
+    "seasons_watched": null,
+    "status": "unwatched",
+    "watched": false,
+    "poster": "https://image.tmdb.org/t/p/w500/zDi4uP2N3rRARLNykg7LsM6DOua.jpg",
+    "overview": "After a plane crash, a group of schoolboys find themselves stranded on a tropical island without adults. Ralph is elected leader and, with the help of the intelligent Piggy, strives to maintain order and civilization. Jack, responsible for the signal fire, becomes increasingly focused on hunting and power struggles. This leads to tensions within the group, gradually pushing the boys from hope and structure into chaos and tragedy.",
+    "year": "2026",
+    "matched_title": "Lord of the Flies",
+    "tmdb_id": 270572,
+    "tmdb_type": "tv"
   }
 ]
