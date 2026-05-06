@@ -11716,5 +11716,20 @@
     "matched_title": "Lord of the Flies",
     "tmdb_id": 270572,
     "tmdb_type": "tv"
+  },
+  {
+    "id": 744,
+    "title": "The Smashing Machine",
+    "platform": "HBO Max",
+    "rating": null,
+    "seasons_watched": null,
+    "status": "unwatched",
+    "watched": false,
+    "poster": "https://image.tmdb.org/t/p/w500/mPuBDGrVIBGOymBxR6rO3iIvBSe.jpg",
+    "overview": "In the late 1990s, up-and-coming mixed martial artist Mark Kerr aspires to become the greatest fighter in the world. However, he must also battle his opioid dependence and a volatile relationship with his girlfriend Dawn.",
+    "year": "2025",
+    "matched_title": "The Smashing Machine",
+    "tmdb_id": 760329,
+    "tmdb_type": "movie"
   }
 ]
