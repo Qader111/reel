@@ -11734,5 +11734,20 @@
     "matched_title": "The Smashing Machine",
     "tmdb_id": 760329,
     "tmdb_type": "movie"
+  },
+  {
+    "id": 745,
+    "title": "Dhurandhar The Revenge",
+    "platform": "Netflix",
+    "rating": 6,
+    "seasons_watched": null,
+    "status": "watched",
+    "watched": true,
+    "poster": "https://image.tmdb.org/t/p/w500/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
+    "overview": "As rival gangs, corrupt officials and a ruthless Major Iqbal close in, Hamza's mission for his country spirals into a bloody personal war where the line between patriot and monster disappears in the streets of Lyari.",
+    "year": "2026",
+    "matched_title": "Dhurandhar: The Revenge",
+    "tmdb_id": 1582770,
+    "tmdb_type": "movie"
   }
 ]
