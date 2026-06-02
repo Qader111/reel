@@ -1896,11 +1896,12 @@
     "seasons_watched": null,
     "status": "watched",
     "watched": true,
-    "tmdb_id": null,
-    "poster": null,
-    "overview": null,
-    "matched_title": null,
-    "year": null
+    "tmdb_id": 1487113,
+    "poster": "https://image.tmdb.org/t/p/w500/ncLqJpmFlTxHbgeVRrdKZrHGfUl.jpg",
+    "overview": "Legendary ghosthunter Jaggi returns with his ghost buddy Pinky to take on a haunted English castle. As the spirit defies all rules and a dark secret comes to light, Jaggi faces his toughest challenge yet. Will he discover the truth before it's too late?",
+    "matched_title": "Sardaarji 3",
+    "year": "2025",
+    "tmdb_type": "movie"
   },
   {
     "id": 121,
