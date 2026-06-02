@@ -11784,5 +11784,20 @@
     "matched_title": "I'm Still Here",
     "tmdb_id": 1000837,
     "tmdb_type": "movie"
+  },
+  {
+    "id": 748,
+    "title": "Daredevil: Born Again",
+    "platform": "Disney Plus",
+    "rating": null,
+    "seasons_watched": null,
+    "status": "partial",
+    "watched": true,
+    "poster": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
+    "overview": "Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while former mob boss Wilson Fisk pursues his own political endeavors in New York. When their past identities begin to emerge, both men find themselves on an inevitable collision course.",
+    "year": "2025",
+    "matched_title": "Daredevil: Born Again",
+    "tmdb_id": 202555,
+    "tmdb_type": "tv"
   }
 ]
