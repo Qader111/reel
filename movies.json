@@ -11754,5 +11754,20 @@
     "matched_title": "Dhurandhar: The Revenge",
     "tmdb_id": 1582770,
     "tmdb_type": "movie"
+  },
+  {
+    "id": 746,
+    "title": "The Secret Agent",
+    "platform": null,
+    "rating": null,
+    "seasons_watched": null,
+    "status": "unwatched",
+    "watched": false,
+    "poster": "https://image.tmdb.org/t/p/w500/iLE2YOmeboeTDC7GlOp1dzh1VFo.jpg",
+    "overview": "Brazil, 1977. Marcelo, a technology expert in his early 40s, is on the run. Hoping to reunite with his son, he travels to Recife during Carnival but soon realizes that the city is not the safe haven he was expecting.",
+    "year": "2025",
+    "matched_title": "The Secret Agent",
+    "tmdb_id": 1220564,
+    "tmdb_type": "movie"
   }
 ]
