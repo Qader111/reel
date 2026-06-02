@@ -11769,5 +11769,20 @@
     "matched_title": "The Secret Agent",
     "tmdb_id": 1220564,
     "tmdb_type": "movie"
+  },
+  {
+    "id": 747,
+    "title": "I'm Still Here",
+    "platform": null,
+    "rating": null,
+    "seasons_watched": null,
+    "status": "unwatched",
+    "watched": false,
+    "poster": "https://image.tmdb.org/t/p/w500/gZnsMbhCvhzAQlKaVpeFRHYjGyb.jpg",
+    "overview": "A woman married to a former politician during the 1971 military dictatorship in Brazil is forced to reinvent herself and chart a new course for her family after a violent and arbitrary act.",
+    "year": "2024",
+    "matched_title": "I'm Still Here",
+    "tmdb_id": 1000837,
+    "tmdb_type": "movie"
   }
 ]
