@@ -2183,8 +2183,8 @@
     "tmdb_type": "movie",
     "matched_title": "Cake",
     "year": "2014",
-    "poster": "https://image.tmdb.org/t/p/w500/5GJEZovjtKisJxNMG6fBTCxNzZi.jpg",
-    "overview": "After having visions of a member of her support group who killed herself, a woman who also suffers with chronic pain seeks out the widower of the suicide.",
+    "poster": null,
+    "overview": "Pakistani Movie",
     "tmdb_score": 6.274
   },
   {
@@ -2195,11 +2195,11 @@
     "seasons_watched": null,
     "status": "watched",
     "watched": true,
-    "tmdb_id": 261839,
-    "tmdb_type": "tv",
-    "matched_title": "Hamidashi Creative",
+    "tmdb_id": 559673,
+    "tmdb_type": "movie",
+    "matched_title": "Hamid",
     "year": "2024",
-    "poster": "https://image.tmdb.org/t/p/w500/mNmRoRSuWCF6ynH3a1ZFkfOGhsp.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/35QHuEC4cUP1R7O0XtPIfRPF4mz.jpg",
     "overview": "Tomohiro Izumi, an introvert, is randomly selected as student council president, but rumors circulate, leading to an unprecedented battle with former president Shio.",
     "tmdb_score": 3.3
   },
