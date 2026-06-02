@@ -582,9 +582,9 @@
     "tmdb_id": 429,
     "tmdb_type": "movie",
     "matched_title": "The Good, the Bad and the Ugly",
-    "year": "1966",
-    "poster": "https://image.tmdb.org/t/p/w500/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg",
-    "overview": "While the Civil War rages on between the Union and the Confederacy, three men – a quiet loner, a ruthless hitman, and a Mexican bandit – comb the American Southwest in search of a strongbox containing $200,000 in stolen gold.",
+    "year": "2013",
+    "poster": null,
+    "overview": "When a 10-year old girl goes missing, her stepfather races against time to investigate the kidnapping. Can he find her before it's too late?",
     "tmdb_score": 8.469
   },
   {
@@ -778,7 +778,7 @@
   },
   {
     "id": 50,
-    "title": "Phantom indian movie",
+    "title": "Phantom",
     "platform": null,
     "rating": 4,
     "seasons_watched": null,
@@ -787,9 +787,9 @@
     "tmdb_id": 715253,
     "tmdb_type": "movie",
     "matched_title": "Phantom",
-    "year": "2026",
+    "year": "2015",
     "poster": null,
-    "overview": "A timid lawyer who suddenly gains the ability to see ghosts teams up with a cold, elite attorney, and together they take on supernatural clients whose unfinished business reveals buried truths.",
+    "overview": "Phantom is an action thriller that unfolds across various countries around the world. The plot revolves around protagonist Daniyal, whose journey to seek justice takes him from India to Europe, America and the volatile Middle East. However, he finds out that in a mission like this, there is always a price to pay, in this case, a very personal price.",
     "tmdb_score": 7.5
   },
   {
