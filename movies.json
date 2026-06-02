@@ -1983,17 +1983,18 @@
   },
   {
     "id": 126,
-    "title": "Ek ladkhi ko dekha toh esa laga",
+    "title": "Ek Ladki Ko Dekha Toh Aisa Laga",
     "platform": "Netflix",
     "rating": 6,
     "seasons_watched": null,
     "status": "watched",
     "watched": true,
-    "tmdb_id": null,
-    "poster": null,
-    "overview": null,
-    "matched_title": null,
-    "year": null
+    "tmdb_id": 533148,
+    "poster": "https://image.tmdb.org/t/p/w500/uYevwq0VLai27AvODudalXzE6HM.jpg",
+    "overview": "Sweety has to contend with her over-enthusiastic family that wants her to get married but the ultimate truth is that her love might not find acceptance in her family and society.",
+    "matched_title": "Ek Ladki Ko Dekha Toh Aisa Laga",
+    "year": "2019",
+    "tmdb_type": "movie"
   },
   {
     "id": 127,
