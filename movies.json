@@ -2355,11 +2355,12 @@
     "seasons_watched": null,
     "status": "watched",
     "watched": true,
-    "tmdb_id": null,
-    "poster": null,
-    "overview": null,
-    "matched_title": null,
-    "year": null
+    "tmdb_id": 222802,
+    "poster": "https://image.tmdb.org/t/p/w500/55Gloqgx1crsHoOHJxNgakJsdEZ.jpg",
+    "overview": "An in-depth look at the life of crimes of serial killer, Ted Bundy.",
+    "matched_title": "Ted Bundy: Serial Monster",
+    "year": "2018",
+    "tmdb_type": "tv"
   },
   {
     "id": 150,
