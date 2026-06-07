@@ -11799,5 +11799,20 @@
     "matched_title": "Daredevil: Born Again",
     "tmdb_id": 202555,
     "tmdb_type": "tv"
+  },
+  {
+    "id": 749,
+    "title": "Little Miss Sunshine",
+    "platform": "Netflix",
+    "rating": 6.5,
+    "seasons_watched": null,
+    "status": "watched",
+    "watched": true,
+    "poster": "https://image.tmdb.org/t/p/w500/niNdhTpPHSgw22tK0PLjQMV640v.jpg",
+    "overview": "A family loaded with quirky, colorful characters piles into an old van and road trips to California for little Olive to compete in a beauty pageant.",
+    "year": "2006",
+    "matched_title": "Little Miss Sunshine",
+    "tmdb_id": 773,
+    "tmdb_type": "movie"
   }
 ]
