@@ -11814,5 +11814,20 @@
     "matched_title": "Little Miss Sunshine",
     "tmdb_id": 773,
     "tmdb_type": "movie"
+  },
+  {
+    "id": 750,
+    "title": "Passengers",
+    "platform": "Netflix",
+    "rating": 6,
+    "seasons_watched": null,
+    "status": "watched",
+    "watched": true,
+    "poster": "https://image.tmdb.org/t/p/w500/jK9S6HANSf2no64v1x1HxfcpmcA.jpg",
+    "overview": "A spacecraft traveling to a distant colony planet and transporting thousands of people has a malfunction in its sleep chambers. As a result, two passengers are awakened 90 years early.",
+    "year": "2016",
+    "matched_title": "Passengers",
+    "tmdb_id": 274870,
+    "tmdb_type": "movie"
   }
 ]
