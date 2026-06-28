@@ -5714,11 +5714,12 @@
     "seasons_watched": "S1-S3",
     "status": "watched",
     "watched": true,
-    "tmdb_id": null,
-    "poster": null,
-    "overview": null,
-    "matched_title": null,
-    "year": null
+    "tmdb_id": 86704,
+    "poster": "https://image.tmdb.org/t/p/w500/eldYxHJQDGrOGi0NHoEURzAWcUS.jpg",
+    "overview": "All Mobeen wants to do is follow his faith, lead a good life and keep his little sister on track. But with his dodgy past chasing him, can he stay on the right side of wrong?",
+    "matched_title": "Man Like Mobeen",
+    "year": "2017",
+    "tmdb_type": "tv"
   },
   {
     "id": 364,
