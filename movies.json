@@ -2871,17 +2871,18 @@
   },
   {
     "id": 182,
-    "title": "Judge Hai Kya",
+    "title": "Judgementall Hai Kya",
     "platform": "hindi movie",
     "rating": 7.5,
     "seasons_watched": null,
     "status": "watched",
     "watched": true,
-    "tmdb_id": null,
-    "poster": null,
-    "overview": null,
-    "matched_title": null,
-    "year": null
+    "tmdb_id": 551688,
+    "poster": "https://image.tmdb.org/t/p/w500/eXyTnYhWLjXEggUTOoFqZRCteml.jpg",
+    "overview": "When Bobby meets her new tenants, a young married couple, their perfectly normal life leaves her really curious. But then a murder takes place and Bobby suspects Keshav has a role to play in the crime.",
+    "matched_title": "Judgementall Hai Kya",
+    "year": "2019",
+    "tmdb_type": "movie"
   },
   {
     "id": 183,
