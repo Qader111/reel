@@ -11850,5 +11850,50 @@
     "matched_title": "The Godfather Part II",
     "tmdb_id": 240,
     "tmdb_type": "movie"
+  },
+  {
+    "id": 752,
+    "title": "Obsession",
+    "platform": null,
+    "rating": null,
+    "seasons_watched": null,
+    "status": "unwatched",
+    "watched": false,
+    "poster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+    "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+    "year": "2026",
+    "matched_title": "Obsession",
+    "tmdb_id": 1339713,
+    "tmdb_type": "movie"
+  },
+  {
+    "id": 753,
+    "title": "The Odyssey",
+    "platform": null,
+    "rating": null,
+    "seasons_watched": null,
+    "status": "unwatched",
+    "watched": false,
+    "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+    "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+    "year": "2026",
+    "matched_title": "The Odyssey",
+    "tmdb_id": 1368337,
+    "tmdb_type": "movie"
+  },
+  {
+    "id": 754,
+    "title": "Spider-Man: Brand New Day",
+    "platform": null,
+    "rating": null,
+    "seasons_watched": null,
+    "status": "unwatched",
+    "watched": false,
+    "poster": "https://image.tmdb.org/t/p/w500/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
+    "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+    "year": "2026",
+    "matched_title": "Spider-Man: Brand New Day",
+    "tmdb_id": 969681,
+    "tmdb_type": "movie"
   }
 ]
