@@ -11985,5 +11985,20 @@
     "matched_title": "Main Vaapas Aaunga",
     "tmdb_id": 1431068,
     "tmdb_type": "movie"
+  },
+  {
+    "id": 761,
+    "title": "Backrooms",
+    "platform": null,
+    "rating": null,
+    "seasons_watched": null,
+    "status": "unwatched",
+    "watched": false,
+    "poster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+    "overview": "A strange doorway appears in the basement of a furniture showroom.",
+    "year": "2026",
+    "matched_title": "Backrooms",
+    "tmdb_id": 1083381,
+    "tmdb_type": "movie"
   }
 ]
