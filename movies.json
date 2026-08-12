@@ -11955,5 +11955,20 @@
     "matched_title": "Bas Tera Saath Ho",
     "tmdb_id": 320646,
     "tmdb_type": "tv"
+  },
+  {
+    "id": 759,
+    "title": "Aik Mohabbat Aur",
+    "platform": "Pak Drama",
+    "rating": null,
+    "seasons_watched": null,
+    "status": "unwatched",
+    "watched": false,
+    "poster": "https://image.tmdb.org/t/p/w500/lq4ud7FStLma5y8Gv5FxY3EI5Gu.jpg",
+    "overview": "ACP Khushbakht, a strong yet emotionally guarded officer, returns to her parents’ home after a failed marriage, losing faith in love while raising her young son. When a case brings her together with Haroon, an idealistic journalist searching for genuine connection, he finds himself drawn to her resilience and hidden pain. As Haroon falls in love, Khushbakht struggles to let go of her past, setting the stage for a journey of healing, trust, and the possibility of a second chance at love.",
+    "year": "2026",
+    "matched_title": "Aik Mohabbat Aur",
+    "tmdb_id": 321292,
+    "tmdb_type": "tv"
   }
 ]
