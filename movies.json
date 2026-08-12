@@ -11910,5 +11910,20 @@
     "matched_title": "The Good Lie",
     "tmdb_id": 250538,
     "tmdb_type": "movie"
+  },
+  {
+    "id": 756,
+    "title": "Dar-e-Nijaat",
+    "platform": "Pak Drama",
+    "rating": null,
+    "seasons_watched": null,
+    "status": "unwatched",
+    "watched": false,
+    "poster": "https://image.tmdb.org/t/p/w500/wyoODxEuzQQtfnPAV2Lb5nfWRrY.jpg",
+    "overview": "Some stories begin with love. Some are tested by loss. And some are remembered for the courage it takes to forgive.",
+    "year": "2026",
+    "matched_title": "Dar-E-Nijaat",
+    "tmdb_id": 328722,
+    "tmdb_type": "tv"
   }
 ]
