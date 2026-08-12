@@ -11940,5 +11940,20 @@
     "matched_title": "Aap Ki Izzat",
     "tmdb_id": 327644,
     "tmdb_type": "tv"
+  },
+  {
+    "id": 758,
+    "title": "Bas Tera Saath Ho",
+    "platform": "Pak Drama",
+    "rating": null,
+    "seasons_watched": null,
+    "status": "unwatched",
+    "watched": false,
+    "poster": "https://image.tmdb.org/t/p/w500/4E9JePisPAifDhmm8cqkvfwlBso.jpg",
+    "overview": "Bas Tera Saath Ho is a story of resilience born from loss, where a young boy’s world shatters far too soon. After losing his parents in a tragic accident, Anas finds himself in a home that offers shelter, but not warmth.",
+    "year": "2026",
+    "matched_title": "Bas Tera Saath Ho",
+    "tmdb_id": 320646,
+    "tmdb_type": "tv"
   }
 ]
