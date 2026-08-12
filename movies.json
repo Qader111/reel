@@ -11970,5 +11970,20 @@
     "matched_title": "Aik Mohabbat Aur",
     "tmdb_id": 321292,
     "tmdb_type": "tv"
+  },
+  {
+    "id": 760,
+    "title": "Main Vaapas Aaunga",
+    "platform": "Netflix",
+    "rating": null,
+    "seasons_watched": null,
+    "status": "unwatched",
+    "watched": false,
+    "poster": "https://image.tmdb.org/t/p/w500/wHTNsZxvlfRAndc52hGlbdCUXKS.jpg",
+    "overview": "Haunted by a childhood romance and recollections of love lost during the 1947 Partition of India, 95-year-old Ishar Singh Grewal shares his story with his grandson Nirvair, the past unfolding through memories of migration, longing, and a romance that endures across generations.",
+    "year": "2026",
+    "matched_title": "Main Vaapas Aaunga",
+    "tmdb_id": 1431068,
+    "tmdb_type": "movie"
   }
 ]
