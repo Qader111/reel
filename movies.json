@@ -11895,5 +11895,20 @@
     "matched_title": "Spider-Man: Brand New Day",
     "tmdb_id": 969681,
     "tmdb_type": "movie"
+  },
+  {
+    "id": 755,
+    "title": "The Good Lie",
+    "platform": null,
+    "rating": null,
+    "seasons_watched": null,
+    "status": "watched",
+    "watched": true,
+    "poster": "https://image.tmdb.org/t/p/w500/yAhoeIwwtPxJ7uf9HLIMHIqWFnL.jpg",
+    "overview": "A young refugee of the Sudanese Civil War who wins a lottery for relocation to the United States with three other lost boys. Encountering the modern world for the first time, they develop an unlikely friendship with a brash American woman assigned to help them, but the young man struggles to adjust to this new life and his feelings of guilt about the brother he left behind.",
+    "year": "2014",
+    "matched_title": "The Good Lie",
+    "tmdb_id": 250538,
+    "tmdb_type": "movie"
   }
 ]
