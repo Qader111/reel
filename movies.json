@@ -6247,17 +6247,18 @@
   },
   {
     "id": 397,
-    "title": "Kim's Convince",
+    "title": "Kim's Convenience",
     "platform": "Netflix",
     "rating": 7.5,
     "seasons_watched": "S1-S5",
     "status": "watched",
     "watched": true,
-    "tmdb_id": null,
-    "poster": null,
-    "overview": null,
-    "matched_title": null,
-    "year": null
+    "tmdb_id": 68106,
+    "poster": "https://image.tmdb.org/t/p/w500/82Vue6MPuYZzlpggR65cvWdBdy.jpg",
+    "overview": "The funny, heartfelt story of The Kims, a Korean-Canadian family, running a convenience store in downtown Toronto. Mr. and Mrs. Kim ('Appa' and 'Umma') immigrated to Toronto in the '80s to set up shop near Regent Park and had two kids, Jung and Janet who are now young adults. However, when Jung was 16, he and Appa had a major falling out involving a physical fight, stolen money and Jung leaving home. Father and son have been estranged since.",
+    "matched_title": "Kim's Convenience",
+    "year": "2016",
+    "tmdb_type": "tv"
   },
   {
     "id": 398,
