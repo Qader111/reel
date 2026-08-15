@@ -10351,22 +10351,6 @@
     "tmdb_score": 8.453
   },
   {
-    "id": 656,
-    "title": "The Dark Knight Rises",
-    "platform": "Netflix",
-    "rating": null,
-    "seasons_watched": null,
-    "status": "unwatched",
-    "watched": false,
-    "tmdb_id": 49026,
-    "tmdb_type": "movie",
-    "matched_title": "The Dark Knight Rises",
-    "year": "2012",
-    "poster": "https://image.tmdb.org/t/p/w500/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
-    "overview": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
-    "tmdb_score": 7.793
-  },
-  {
     "id": 657,
     "title": "Sicario",
     "platform": "Netflix",
