@@ -7605,17 +7605,18 @@
   },
   {
     "id": 483,
-    "title": "Juhnd",
+    "title": "Jhund",
     "platform": "einthusian",
     "rating": 7.5,
     "seasons_watched": null,
     "status": "watched",
     "watched": true,
-    "tmdb_id": null,
-    "poster": null,
-    "overview": null,
-    "matched_title": null,
-    "year": null
+    "tmdb_id": 665685,
+    "poster": "https://image.tmdb.org/t/p/w500/A5rzrjzdzEuPX7Gcc4KphutBejj.jpg",
+    "overview": "A retired sports teacher transforms a bunch of teenage slum goons into disciplined football players against all odds.",
+    "matched_title": "Jhund",
+    "year": "2022",
+    "tmdb_type": "movie"
   },
   {
     "id": 484,
