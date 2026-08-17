@@ -5286,22 +5286,6 @@
     "tmdb_score": 6.32
   },
   {
-    "id": 336,
-    "title": "Jewel Thief",
-    "platform": "Netflix",
-    "rating": null,
-    "seasons_watched": null,
-    "status": "unwatched",
-    "watched": false,
-    "tmdb_id": 1225915,
-    "tmdb_type": "movie",
-    "matched_title": "Jewel Thief - The Heist Begins",
-    "year": "2025",
-    "poster": "https://image.tmdb.org/t/p/w500/eujLbO0kf1eqWC8XpHUJdtAVW2J.jpg",
-    "overview": "In this high-octane battle of wits and wills, ingenious con artist Rehan devises a diamond heist while trying to outsmart Rajan, his sadistic adversary.",
-    "tmdb_score": 6.688
-  },
-  {
     "id": 337,
     "title": "The devil all the time",
     "platform": "Netflix",
