@@ -11954,5 +11954,20 @@
     "matched_title": "Backrooms",
     "tmdb_id": 1083381,
     "tmdb_type": "movie"
+  },
+  {
+    "id": 762,
+    "title": "Stolen",
+    "platform": "Prime Video",
+    "rating": null,
+    "seasons_watched": null,
+    "status": "unwatched",
+    "watched": false,
+    "poster": "https://image.tmdb.org/t/p/w500/xR5Endhjm4soY6fPgXY0jrpDZvL.jpg",
+    "overview": "The five-month-old baby of impoverished tribal woman Jhumpa Mahato is stolen. Two brothers, Gautam and Raman, who witness the kidnapping, try to help her and become embroiled in the complexities of the investigation.",
+    "year": "2023",
+    "matched_title": "Stolen",
+    "tmdb_id": 1156202,
+    "tmdb_type": "movie"
   }
 ]
