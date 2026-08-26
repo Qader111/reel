@@ -11969,5 +11969,20 @@
     "matched_title": "Stolen",
     "tmdb_id": 1156202,
     "tmdb_type": "movie"
+  },
+  {
+    "id": 763,
+    "title": "Tires",
+    "platform": "Netflix",
+    "rating": 7.5,
+    "seasons_watched": "S1-S3",
+    "status": "watched",
+    "watched": true,
+    "poster": "https://image.tmdb.org/t/p/w500/cNHTFUV39qyEsm7edSaJdSqJYtJ.jpg",
+    "overview": "At his father's auto shop, a hapless manager strives to improve customer service and drive profits while keeping his troublemaking cousin in line.",
+    "year": "2024",
+    "matched_title": "Tires",
+    "tmdb_id": 247522,
+    "tmdb_type": "tv"
   }
 ]
