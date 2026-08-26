@@ -11984,5 +11984,20 @@
     "matched_title": "Tires",
     "tmdb_id": 247522,
     "tmdb_type": "tv"
+  },
+  {
+    "id": 764,
+    "title": "The Long Walk",
+    "platform": "HBO Max",
+    "rating": null,
+    "seasons_watched": null,
+    "status": "unwatched",
+    "watched": false,
+    "poster": "https://image.tmdb.org/t/p/w500/wobVTa99eW0ht6c1rNNzLkazPtR.jpg",
+    "overview": "In a dystopian 1970s America, fifty teenage boys take part in a deadly annual walking contest, forced to maintain a minimum pace or be executed, until only one survivor remains.",
+    "year": "2025",
+    "matched_title": "The Long Walk",
+    "tmdb_id": 604079,
+    "tmdb_type": "movie"
   }
 ]
