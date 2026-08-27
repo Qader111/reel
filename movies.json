@@ -12014,5 +12014,20 @@
     "matched_title": "The Uprising",
     "tmdb_id": 977942,
     "tmdb_type": "movie"
+  },
+  {
+    "id": 766,
+    "title": "Zanjeerain",
+    "platform": "Pak Drama",
+    "rating": null,
+    "seasons_watched": null,
+    "status": "unwatched",
+    "watched": false,
+    "poster": "https://image.tmdb.org/t/p/w500/yCrQjJNvh2vOwH07FbI8Dt0IfnR.jpg",
+    "overview": "Set in the beautiful, green mountains, Zanjeerain is a powerful story about love, greed, and the secrets we keep. In this world, everyone has something to hide—some are stuck following old rules, others are hungry for power, and some are just trying to protect the people they love. It is a big, exciting drama where every choice matters and every character is struggling to find their way. Enter the world of Zanjeerain, a rare and emotional journey where hearts and empires are put to test.",
+    "year": "2026",
+    "matched_title": "Zanjeerain",
+    "tmdb_id": 321183,
+    "tmdb_type": "tv"
   }
 ]
