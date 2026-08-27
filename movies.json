@@ -11999,5 +11999,20 @@
     "matched_title": "The Long Walk",
     "tmdb_id": 604079,
     "tmdb_type": "movie"
+  },
+  {
+    "id": 765,
+    "title": "The Uprising",
+    "platform": null,
+    "rating": null,
+    "seasons_watched": null,
+    "status": "unwatched",
+    "watched": false,
+    "poster": "https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
+    "overview": "Set against the true events of the uprising that helped inspire the legend of Robin Hood, a humble peasant forms an army of the people to face King Richard II's might in a fight for justice.",
+    "year": "2026",
+    "matched_title": "The Uprising",
+    "tmdb_id": 977942,
+    "tmdb_type": "movie"
   }
 ]
