@@ -12044,5 +12044,20 @@
     "matched_title": "The Drama",
     "tmdb_id": 1325734,
     "tmdb_type": "movie"
+  },
+  {
+    "id": 768,
+    "title": "Lanterns",
+    "platform": "HBO Max",
+    "rating": null,
+    "seasons_watched": null,
+    "status": "unwatched",
+    "watched": false,
+    "poster": "https://image.tmdb.org/t/p/w500/rb94rKVIzLyfWufIN7WqLvadBDH.jpg",
+    "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+    "year": "2026",
+    "matched_title": "Lanterns",
+    "tmdb_id": 95350,
+    "tmdb_type": "tv"
   }
 ]
