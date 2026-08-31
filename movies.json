@@ -12089,5 +12089,20 @@
     "matched_title": "Juror #2",
     "tmdb_id": 1106739,
     "tmdb_type": "movie"
+  },
+  {
+    "id": 771,
+    "title": "Chernobyl",
+    "platform": "HBO Max",
+    "rating": null,
+    "seasons_watched": null,
+    "status": "unwatched",
+    "watched": false,
+    "poster": "https://image.tmdb.org/t/p/w500/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
+    "overview": "The true story of one of the worst man-made catastrophes in history: the catastrophic nuclear accident at Chernobyl. A tale of the brave men and women who sacrificed to save Europe from unimaginable disaster.",
+    "year": "2019",
+    "matched_title": "Chernobyl",
+    "tmdb_id": 87108,
+    "tmdb_type": "tv"
   }
 ]
