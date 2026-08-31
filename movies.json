@@ -12074,5 +12074,20 @@
     "matched_title": "Spider-Man: Across the Spider-Verse",
     "tmdb_id": 569094,
     "tmdb_type": "movie"
+  },
+  {
+    "id": 770,
+    "title": "Juror #2",
+    "platform": "HBO Max",
+    "rating": null,
+    "seasons_watched": null,
+    "status": "unwatched",
+    "watched": false,
+    "poster": "https://image.tmdb.org/t/p/w500/ugQkpGajKFQ8eyOEhGheR0HfWQ.jpg",
+    "overview": "While serving as a juror in a high profile murder trial, family man Justin Kemp finds himself struggling with a serious moral dilemma…one he could use to sway the jury verdict and potentially convict—or free—the accused killer.",
+    "year": "2024",
+    "matched_title": "Juror #2",
+    "tmdb_id": 1106739,
+    "tmdb_type": "movie"
   }
 ]
