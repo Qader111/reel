@@ -7842,22 +7842,6 @@
     "tmdb_score": 7.407
   },
   {
-    "id": 499,
-    "title": "Maaveeran",
-    "platform": "Prime Video",
-    "rating": null,
-    "seasons_watched": null,
-    "status": "unwatched",
-    "watched": false,
-    "tmdb_id": 23790,
-    "tmdb_type": "movie",
-    "matched_title": "Magadheera",
-    "year": "2009",
-    "poster": "https://image.tmdb.org/t/p/w500/xK7MEV56GF291VG0U5XnVJuvNv3.jpg",
-    "overview": "A street-bike racer chances upon a woman and is struck by visions of a past life where they were both star-crossed lovers in a war-ridden kingdom 400 years ago, while the reincarnation of his romantic rival emerges with murderous intent.",
-    "tmdb_score": 7.2
-  },
-  {
     "id": 500,
     "title": "Extraction",
     "platform": "Netflix",
