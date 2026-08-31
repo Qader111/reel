@@ -5231,11 +5231,12 @@
     "seasons_watched": null,
     "status": "watched",
     "watched": true,
-    "tmdb_id": null,
-    "poster": null,
-    "overview": null,
-    "matched_title": null,
-    "year": null
+    "tmdb_id": 652049,
+    "poster": "https://image.tmdb.org/t/p/w500/6Lb6Gy0clsxsfSKDZ0syKM3X7tx.jpg",
+    "overview": "During US invasion of Iraq some illegal migrants are waiting to get back home to India. As one such family prepares to celebrate the 6th birthday of their youngest member Chintu, their kind-hearted Iraqi landlord lends them a helping hand.",
+    "matched_title": "Chintu Ka Birthday",
+    "year": "2019",
+    "tmdb_type": "movie"
   },
   {
     "id": 333,
