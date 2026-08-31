@@ -12059,5 +12059,20 @@
     "matched_title": "Lanterns",
     "tmdb_id": 95350,
     "tmdb_type": "tv"
+  },
+  {
+    "id": 769,
+    "title": "Spider-Man: Across the Spider-Verse",
+    "platform": "HBO Max",
+    "rating": null,
+    "seasons_watched": null,
+    "status": "unwatched",
+    "watched": false,
+    "poster": "https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+    "overview": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse's very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
+    "year": "2023",
+    "matched_title": "Spider-Man: Across the Spider-Verse",
+    "tmdb_id": 569094,
+    "tmdb_type": "movie"
   }
 ]
