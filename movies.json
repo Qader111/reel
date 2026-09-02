@@ -12089,5 +12089,20 @@
     "matched_title": "Chernobyl",
     "tmdb_id": 87108,
     "tmdb_type": "tv"
+  },
+  {
+    "id": 772,
+    "title": "East of Eden",
+    "platform": "Netflix",
+    "rating": null,
+    "seasons_watched": null,
+    "status": "unwatched",
+    "watched": false,
+    "poster": "https://image.tmdb.org/t/p/w500/VMyZWR0GBHGY9WIwcaj232ALAl.jpg",
+    "overview": "This multigenerational saga follows the Trask family through generations shaped by ambition, betrayal, and the haunting, indelible antihero Cathy Ames.",
+    "year": "2026",
+    "matched_title": "East of Eden",
+    "tmdb_id": 258165,
+    "tmdb_type": "tv"
   }
 ]
