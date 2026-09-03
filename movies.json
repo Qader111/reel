@@ -9026,11 +9026,12 @@
     "seasons_watched": null,
     "status": "watched",
     "watched": true,
-    "tmdb_id": null,
-    "poster": null,
-    "overview": null,
-    "matched_title": null,
-    "year": null
+    "tmdb_id": 695962,
+    "poster": "https://image.tmdb.org/t/p/w500/fw0oMHiMt9qOuKEJEmzFiCNAnXc.jpg",
+    "overview": "When strangers Reet and Ruhan cross paths, their journey leads to an abandoned mansion and a dreaded spirit who has been trapped for eighteen years.",
+    "matched_title": "Bhool Bhulaiyaa 2",
+    "year": "2022",
+    "tmdb_type": "movie"
   },
   {
     "id": 575,
