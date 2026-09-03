@@ -3094,17 +3094,18 @@
   },
   {
     "id": 196,
-    "title": "6 undergrounds",
+    "title": "6 underground",
     "platform": "Netflix",
     "rating": 7.5,
     "seasons_watched": null,
     "status": "watched",
     "watched": true,
-    "tmdb_id": null,
-    "poster": null,
-    "overview": null,
-    "matched_title": null,
-    "year": null
+    "tmdb_id": 509967,
+    "poster": "https://image.tmdb.org/t/p/w500/lnWkyG3LLgbbrIEeyl5mK5VRFe4.jpg",
+    "overview": "After faking his death, a tech billionaire recruits a team of international operatives for a bold and bloody mission to take down a brutal dictator.",
+    "matched_title": "6 Underground",
+    "year": "2019",
+    "tmdb_type": "movie"
   },
   {
     "id": 197,
