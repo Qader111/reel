@@ -6065,11 +6065,12 @@
     "seasons_watched": null,
     "status": "watched",
     "watched": true,
-    "tmdb_id": null,
-    "poster": null,
-    "overview": null,
-    "matched_title": null,
-    "year": null
+    "tmdb_id": 879540,
+    "poster": "https://image.tmdb.org/t/p/w500/lSK4iExkkVnrA8iPxZwbs8IfnUy.jpg",
+    "overview": "As he closes out his slate of comedy specials, Dave takes the stage to try and set the record straight — and get a few things off his chest.",
+    "matched_title": "Dave Chappelle: The Closer",
+    "year": "2021",
+    "tmdb_type": "movie"
   },
   {
     "id": 387,
