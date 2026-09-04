@@ -3299,17 +3299,18 @@
   },
   {
     "id": 209,
-    "title": "Mere Pass tum Ho",
+    "title": "Meray Paas Tum Ho",
     "platform": "Pak Drama",
     "rating": 8,
     "seasons_watched": null,
     "status": "watched",
     "watched": true,
-    "tmdb_id": null,
-    "poster": null,
-    "overview": null,
-    "matched_title": null,
-    "year": null
+    "tmdb_id": 95096,
+    "poster": "https://image.tmdb.org/t/p/w500/p9pWJEjI92sV9MRFgRc8WoOUPr7.jpg",
+    "overview": "Sometimes even love is not enough to keep some people happy. Meray Paas Tum Ho revolves around the lives of an ordinary couple, Danish and Mehwish who have different needs and mindset which slowly drifts them apart.",
+    "matched_title": "Meray Paas Tum Ho",
+    "year": "2019",
+    "tmdb_type": "tv"
   },
   {
     "id": 210,
