@@ -12108,5 +12108,20 @@
     "matched_title": "East of Eden",
     "tmdb_id": 258165,
     "tmdb_type": "tv"
+  },
+  {
+    "id": 773,
+    "title": "Project Hail Mary",
+    "platform": "Prime Video",
+    "rating": null,
+    "seasons_watched": null,
+    "status": "unwatched",
+    "watched": false,
+    "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+    "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+    "year": "2026",
+    "matched_title": "Project Hail Mary",
+    "tmdb_id": 687163,
+    "tmdb_type": "movie"
   }
 ]
