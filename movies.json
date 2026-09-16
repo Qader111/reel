@@ -12123,5 +12123,20 @@
     "matched_title": "Project Hail Mary",
     "tmdb_id": 687163,
     "tmdb_type": "movie"
+  },
+  {
+    "id": 774,
+    "title": "Wasteman",
+    "platform": null,
+    "rating": null,
+    "seasons_watched": null,
+    "status": "watched",
+    "watched": true,
+    "poster": "https://image.tmdb.org/t/p/w500/lKK9ImwpoTCwDZKgYpjIIJCnlf0.jpg",
+    "overview": "Taylor's hopes for a fresh start post-parole are jeopardised by cellmate Dee's arrival. As Dee takes Taylor under his wing, a vicious attack tests their bond, forcing Taylor to choose between protecting Dee and his own chances at freedom.",
+    "year": "2026",
+    "matched_title": "Wasteman",
+    "tmdb_id": 1307373,
+    "tmdb_type": "movie"
   }
 ]
