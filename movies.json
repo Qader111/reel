@@ -12138,5 +12138,20 @@
     "matched_title": "Wasteman",
     "tmdb_id": 1307373,
     "tmdb_type": "movie"
+  },
+  {
+    "id": 775,
+    "title": "wayward",
+    "platform": "Nettflix",
+    "rating": null,
+    "seasons_watched": null,
+    "status": "watched",
+    "watched": true,
+    "poster": "https://image.tmdb.org/t/p/w500/t6bk8g9DsITWZXwnw9jrA9RDdCB.jpg",
+    "overview": "A small-town cop suspects that the local school for troubled teens — and its dangerously charismatic founder — may not be all it seems.",
+    "year": "2025",
+    "matched_title": "Wayward",
+    "tmdb_id": 255859,
+    "tmdb_type": "tv"
   }
 ]
