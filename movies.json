@@ -12153,5 +12153,20 @@
     "matched_title": "Wayward",
     "tmdb_id": 255859,
     "tmdb_type": "tv"
+  },
+  {
+    "id": 776,
+    "title": "Dog Pound",
+    "platform": null,
+    "rating": null,
+    "seasons_watched": null,
+    "status": "watched",
+    "watched": true,
+    "poster": "https://image.tmdb.org/t/p/w500/btkq5xE0GrHzdl8I49OGTUmCPYL.jpg",
+    "overview": "Three juvenile delinquents arrive at a correctional center and are put under the care of an experienced guard.",
+    "year": "2010",
+    "matched_title": "Dog Pound",
+    "tmdb_id": 43920,
+    "tmdb_type": "movie"
   }
 ]
