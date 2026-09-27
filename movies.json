@@ -12183,5 +12183,20 @@
     "matched_title": "Your Mother Your Mother Your Mother",
     "tmdb_id": 1437396,
     "tmdb_type": "movie"
+  },
+  {
+    "id": 778,
+    "title": "Blackberry",
+    "platform": "Netflix",
+    "rating": 6.5,
+    "seasons_watched": null,
+    "status": "watched",
+    "watched": true,
+    "poster": "https://image.tmdb.org/t/p/w500/nQSvHZDuMlrZdm7ooMo8gb4CXhW.jpg",
+    "overview": "Two mismatched entrepreneurs – egghead innovator Mike Lazaridis and cut-throat businessman Jim Balsillie – joined forces in an endeavour that was to become a worldwide hit in little more than a decade. The story of the meteoric rise and catastrophic demise of the world's first smartphone.",
+    "year": "2023",
+    "matched_title": "BlackBerry",
+    "tmdb_id": 1016084,
+    "tmdb_type": "movie"
   }
 ]
