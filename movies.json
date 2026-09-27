@@ -12213,5 +12213,20 @@
     "matched_title": "MobLand",
     "tmdb_id": 247718,
     "tmdb_type": "tv"
+  },
+  {
+    "id": 780,
+    "title": "ONCE UPON A TIME IN THE MIDDLE EAST",
+    "platform": null,
+    "rating": null,
+    "seasons_watched": null,
+    "status": "watched",
+    "watched": true,
+    "poster": "https://image.tmdb.org/t/p/w500/wAuGgXjA7GV8NrKfmUKl2AP8vqG.jpg",
+    "overview": "Xu Fu travels to the Middle East to work as a chef in a Chinese restaurant to pay off family debts, where he meets floor manager Ma Junsheng. Their Dragon Restaurant rises to fame, attracting crowds with authentic‑tasting Chinese food. But war breaks out, and local conditions take a drastic turn for the worse. No one can remain unaffected. What lies ahead for them? And how will the Dragon Restaurant hold on amid the war?",
+    "year": "2026",
+    "matched_title": "Once Upon a Time in the Middle East",
+    "tmdb_id": 1391021,
+    "tmdb_type": "movie"
   }
 ]
