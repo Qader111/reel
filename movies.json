@@ -12243,5 +12243,20 @@
     "matched_title": "The Drop",
     "tmdb_id": 154400,
     "tmdb_type": "movie"
+  },
+  {
+    "id": 782,
+    "title": "The Devil Wears Prada",
+    "platform": "Netflix",
+    "rating": null,
+    "seasons_watched": null,
+    "status": "unwatched",
+    "watched": false,
+    "poster": "https://image.tmdb.org/t/p/w500/8912AsVuS7Sj915apArUFbv6F9L.jpg",
+    "overview": "A young woman from the Midwest gets more than she bargained for when she moves to New York to become a writer and ends up as the assistant to the tyrannical, larger-than-life editor-in-chief of a major fashion magazine.",
+    "year": "2006",
+    "matched_title": "The Devil Wears Prada",
+    "tmdb_id": 350,
+    "tmdb_type": "movie"
   }
 ]
