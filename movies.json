@@ -5049,11 +5049,12 @@
     "seasons_watched": null,
     "status": "watched",
     "watched": true,
-    "tmdb_id": null,
-    "poster": null,
-    "overview": null,
-    "matched_title": null,
-    "year": null
+    "tmdb_id": 419823,
+    "poster": "https://image.tmdb.org/t/p/w500/dtz8GJTffTscT6Ere4que4tylhk.jpg",
+    "overview": "A young man concocts a scheme to marry a reluctant fellow student, but finds the task more difficult than it first appeared.",
+    "matched_title": "Nikka Zaildar",
+    "year": "2016",
+    "tmdb_type": "movie"
   },
   {
     "id": 321,
@@ -5063,11 +5064,12 @@
     "seasons_watched": null,
     "status": "watched",
     "watched": true,
-    "tmdb_id": null,
-    "poster": null,
-    "overview": null,
-    "matched_title": null,
-    "year": null
+    "tmdb_id": 491821,
+    "poster": "https://image.tmdb.org/t/p/w500/vdlCP4XQJ2S0E6q5r2OZ9TBXFvr.jpg",
+    "overview": "It is a sequel to the 2016 film Nikka Zaildar. Set in the 80s, A man has an affair with his nephews teacher, but just before the wedding he gets married to another girl",
+    "matched_title": "Nikka Zaildar 2",
+    "year": "2017",
+    "tmdb_type": "movie"
   },
   {
     "id": 322,
@@ -5077,11 +5079,12 @@
     "seasons_watched": null,
     "status": "watched",
     "watched": true,
-    "tmdb_id": null,
-    "poster": null,
-    "overview": null,
-    "matched_title": null,
-    "year": null
+    "tmdb_id": 632658,
+    "poster": "https://image.tmdb.org/t/p/w500/msWQ51cB0H25sYHTmkAp4sQfVdP.jpg",
+    "overview": "The film chronicles the story of Nikka whose father's soul enters his body following his death.",
+    "matched_title": "Nikka Zaildar 3",
+    "year": "2019",
+    "tmdb_type": "movie"
   },
   {
     "id": 323,
