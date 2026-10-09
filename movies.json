@@ -8597,17 +8597,18 @@
   },
   {
     "id": 547,
-    "title": "The killer of the flower moon",
+    "title": "Killers of the Flower Moon",
     "platform": "Quitt.net",
     "rating": 5,
     "seasons_watched": null,
     "status": "watched",
     "watched": true,
-    "tmdb_id": null,
-    "poster": null,
-    "overview": null,
-    "matched_title": null,
-    "year": null
+    "tmdb_id": 466420,
+    "poster": "https://image.tmdb.org/t/p/w500/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
+    "overview": "When oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage people are murdered one by one—until the FBI steps in to unravel the mystery.",
+    "matched_title": "Killers of the Flower Moon",
+    "year": "2023",
+    "tmdb_type": "movie"
   },
   {
     "id": 548,
