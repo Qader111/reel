@@ -12352,5 +12352,20 @@
     "matched_title": "My Cousin Vinny",
     "tmdb_id": 10377,
     "tmdb_type": "movie"
+  },
+  {
+    "id": 789,
+    "title": "Viva La Vida",
+    "platform": null,
+    "rating": null,
+    "seasons_watched": null,
+    "status": "unwatched",
+    "watched": false,
+    "poster": "https://image.tmdb.org/t/p/w500/neJkXriBWdkND9YMviujP2Ni8bx.jpg",
+    "overview": "A young woman who needs a kidney transplant wants to marry someone who will be able to donate a kidney, and meets a young man who has a brain disease.",
+    "year": "2024",
+    "matched_title": "Viva La Vida",
+    "tmdb_id": 1212009,
+    "tmdb_type": "movie"
   }
 ]
