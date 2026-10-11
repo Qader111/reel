@@ -12367,5 +12367,20 @@
     "matched_title": "Viva La Vida",
     "tmdb_id": 1212009,
     "tmdb_type": "movie"
+  },
+  {
+    "id": 790,
+    "title": "Mitti De Baway",
+    "platform": "Pakistani Drama",
+    "rating": null,
+    "seasons_watched": null,
+    "status": "unwatched",
+    "watched": false,
+    "poster": "https://image.tmdb.org/t/p/w500/7ea80sGJCyTdzga1g02sg8GOqsh.jpg",
+    "overview": "Set in the heart of Punjab, Mitti De Baway is a timeless tale of love, pride, class, and destiny. Bano, a woman from a respected family in Wazirabad, falls deeply in love with Baala, a dhol player from Mitranawali. Bound by family honor, Bano denies their love and chooses her family over him, leaving Baala heartbroken. Years later, fate brings them together again in Faisalabad, where both are married with children. Their unresolved love resurfaces, but fear, resentment, and revenge pull them apart once more. As destiny reunites them for a third time, old rivalries, betrayal, and family conflicts stand in their way. Though they eventually forgive each other and accept the love they could never escape, an old enemy returns, turning their long-awaited reunion into a heartbreaking tragedy.",
+    "year": "2026",
+    "matched_title": "Mitti De Baway",
+    "tmdb_id": 336288,
+    "tmdb_type": "tv"
   }
 ]
