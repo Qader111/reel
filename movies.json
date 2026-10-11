@@ -12262,5 +12262,20 @@
     "matched_title": "The Devil Wears Prada",
     "tmdb_id": 350,
     "tmdb_type": "movie"
+  },
+  {
+    "id": 783,
+    "title": "Animals",
+    "platform": "Netflix",
+    "rating": null,
+    "seasons_watched": null,
+    "status": "unwatched",
+    "watched": false,
+    "poster": "https://image.tmdb.org/t/p/w500/cyltXU1lAGhRFBuHQIMWBAPj8fI.jpg",
+    "overview": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.",
+    "year": "2026",
+    "matched_title": "Animals",
+    "tmdb_id": 1236045,
+    "tmdb_type": "movie"
   }
 ]
