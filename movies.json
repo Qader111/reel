@@ -12382,5 +12382,20 @@
     "matched_title": "Mitti De Baway",
     "tmdb_id": 336288,
     "tmdb_type": "tv"
+  },
+  {
+    "id": 791,
+    "title": "Raja London Ka",
+    "platform": "Pakistani Drama",
+    "rating": null,
+    "seasons_watched": null,
+    "status": "unwatched",
+    "watched": false,
+    "poster": "https://image.tmdb.org/t/p/w500/vnHKs4BWr1mS64RNqHdRjNceaAN.jpg",
+    "overview": "The wait is over! Dive into the thrilling world of Raja London Ka, where action, revenge, love, and power collide. As Raja's journey unfolds, hidden secrets, dangerous rivalries, and unexpected emotions set the stage for an unforgettable story.\n\nThis gripping drama promises intense action, heart-pounding suspense, and captivating romance.\n\nWill revenge change Raja's destiny, or will love lead him down a different path?",
+    "year": "2026",
+    "matched_title": "Raja London Ka",
+    "tmdb_id": 324354,
+    "tmdb_type": "tv"
   }
 ]
