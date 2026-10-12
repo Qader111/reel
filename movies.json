@@ -8757,11 +8757,11 @@
   {
     "id": 557,
     "title": "The Prestige",
-    "platform": "Hulu",
-    "rating": null,
+    "platform": "Netflix",
+    "rating": 8,
     "seasons_watched": null,
-    "status": "unwatched",
-    "watched": false,
+    "status": "watched",
+    "watched": true,
     "tmdb_id": 1124,
     "tmdb_type": "movie",
     "matched_title": "The Prestige",
@@ -12276,21 +12276,6 @@
     "year": "2026",
     "matched_title": "Animals",
     "tmdb_id": 1236045,
-    "tmdb_type": "movie"
-  },
-  {
-    "id": 784,
-    "title": "The Prestige",
-    "platform": "Netflix",
-    "rating": null,
-    "seasons_watched": null,
-    "status": "unwatched",
-    "watched": false,
-    "poster": "https://image.tmdb.org/t/p/w500/Ag2B2KHKQPukjH7WutmgnnSNurZ.jpg",
-    "overview": "A mysterious story of two magicians whose intense rivalry leads them on a life-long battle for supremacy -- full of obsession, deceit and jealousy with dangerous and deadly consequences.",
-    "year": "2006",
-    "matched_title": "The Prestige",
-    "tmdb_id": 1124,
     "tmdb_type": "movie"
   },
   {
