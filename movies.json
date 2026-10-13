@@ -12382,5 +12382,20 @@
     "matched_title": "Raja London Ka",
     "tmdb_id": 324354,
     "tmdb_type": "tv"
+  },
+  {
+    "id": 792,
+    "title": "Hustle",
+    "platform": "Netflix",
+    "rating": null,
+    "seasons_watched": null,
+    "status": "unwatched",
+    "watched": false,
+    "poster": "https://image.tmdb.org/t/p/w500/xWic7kPq13oRxYjbGLApXCnc7pz.jpg",
+    "overview": "After discovering a once-in-a-lifetime player with a rocky past abroad, a down on his luck basketball scout takes it upon himself to bring the phenom to the States without his team's approval. Against the odds, they have one final shot to prove they have what it takes to make it in the NBA.",
+    "year": "2022",
+    "matched_title": "Hustle",
+    "tmdb_id": 705861,
+    "tmdb_type": "movie"
   }
 ]
