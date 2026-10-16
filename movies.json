@@ -12397,5 +12397,20 @@
     "matched_title": "Hustle",
     "tmdb_id": 705861,
     "tmdb_type": "movie"
+  },
+  {
+    "id": 793,
+    "title": "Dead-End Job",
+    "platform": "Netflix",
+    "rating": null,
+    "seasons_watched": null,
+    "status": "unwatched",
+    "watched": false,
+    "poster": "https://image.tmdb.org/t/p/w500/1yobke0bpfNOazuF9wW7QbM2GER.jpg",
+    "overview": "When a debtor is lured by a strange agency with the promise of lucrative gigs, he is soon thrust into a hellish world of terror and unpredictability.",
+    "year": "2026",
+    "matched_title": "Dead-End Job",
+    "tmdb_id": 289517,
+    "tmdb_type": "tv"
   }
 ]
