@@ -8409,17 +8409,18 @@
   },
   {
     "id": 535,
-    "title": "Guns and Gullab",
+    "title": "Guns & Gulaabs",
     "platform": "Netflix",
     "rating": 6.5,
     "seasons_watched": null,
     "status": "watched",
     "watched": true,
-    "tmdb_id": null,
-    "poster": null,
-    "overview": null,
-    "matched_title": null,
-    "year": null
+    "tmdb_id": 156714,
+    "poster": "https://image.tmdb.org/t/p/w500/yRSvwppi9u77UWGPrRgJoTfv5DR.jpg",
+    "overview": "In the cartel-run town of Gulaabgunj, an unprecedented opium deal pulls a big-city cop and a lovesick mechanic into its chaotic clutches.",
+    "matched_title": "Guns & Gulaabs",
+    "year": "2023",
+    "tmdb_type": "tv"
   },
   {
     "id": 536,
