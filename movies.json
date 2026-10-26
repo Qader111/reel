@@ -2809,17 +2809,18 @@
   },
   {
     "id": 178,
-    "title": "12 years of slavery",
+    "title": "12 Years a Slave",
     "platform": null,
     "rating": 7.5,
     "seasons_watched": null,
     "status": "watched",
     "watched": true,
-    "tmdb_id": null,
-    "poster": null,
-    "overview": null,
-    "matched_title": null,
-    "year": null
+    "tmdb_id": 76203,
+    "poster": "https://image.tmdb.org/t/p/w500/xdANQijuNrJaw1HA61rDccME4Tm.jpg",
+    "overview": "In the pre-Civil War United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery. Facing cruelty as well as unexpected kindnesses Solomon struggles not only to stay alive, but to retain his dignity. In the twelfth year of his unforgettable odyssey, Solomon’s chance meeting with a Canadian abolitionist will forever alter his life.",
+    "matched_title": "12 Years a Slave",
+    "year": "2013",
+    "tmdb_type": "movie"
   },
   {
     "id": 179,
