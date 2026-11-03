@@ -4713,22 +4713,6 @@
     "tmdb_score": 6.099
   },
   {
-    "id": 299,
-    "title": "Aap Jaisa Koi",
-    "platform": "Netlfix",
-    "rating": null,
-    "seasons_watched": null,
-    "status": "unwatched",
-    "watched": false,
-    "tmdb_id": 1391013,
-    "tmdb_type": "movie",
-    "matched_title": "Aap Jaisa Koi",
-    "year": "2025",
-    "poster": "https://image.tmdb.org/t/p/w500/fV9dswGQCvbpVsj1JOTrYCeos8w.jpg",
-    "overview": "Shrirenu lives by tradition. Madhu lives unapologetically. When their paths cross, a tender romance unfolds — awkward, sweet but shadowed by patriarchy.",
-    "tmdb_score": 6.6
-  },
-  {
     "id": 300,
     "title": "The Mule",
     "platform": "Netflix",
