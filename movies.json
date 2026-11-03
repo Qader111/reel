@@ -12399,5 +12399,20 @@
     "matched_title": "Dead-End Job",
     "tmdb_id": 289517,
     "tmdb_type": "tv"
+  },
+  {
+    "id": 794,
+    "title": "Mayor of Kingstown",
+    "platform": "Netflix",
+    "rating": null,
+    "seasons_watched": null,
+    "status": "unwatched",
+    "watched": false,
+    "poster": "https://image.tmdb.org/t/p/w500/6rWIip9MZELAA0SKii5WqsBDCYW.jpg",
+    "overview": "In a small Michigan town where the business of incarceration is the only thriving industry, the McClusky family are the power brokers between the police, criminals, inmates, prison guards and politicians in a city completely dependent on prisons and the prisoners they contain.",
+    "year": "2021",
+    "matched_title": "Mayor of Kingstown",
+    "tmdb_id": 97951,
+    "tmdb_type": "tv"
   }
 ]
