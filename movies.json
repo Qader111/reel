@@ -12398,5 +12398,20 @@
     "matched_title": "Mayor of Kingstown",
     "tmdb_id": 97951,
     "tmdb_type": "tv"
+  },
+  {
+    "id": 795,
+    "title": "The Leftover",
+    "platform": "HBO Max",
+    "rating": null,
+    "seasons_watched": null,
+    "status": "unwatched",
+    "watched": false,
+    "poster": "https://image.tmdb.org/t/p/w500/NKJdryIFHr245Umq6gXsf7oULW.jpg",
+    "overview": "When 2% of the world's population abruptly disappears without explanation, the world struggles to understand just what they're supposed to do about it. This is the story of the people who didn't make the cut.",
+    "year": "2014",
+    "matched_title": "The Leftovers",
+    "tmdb_id": 54344,
+    "tmdb_type": "tv"
   }
 ]
