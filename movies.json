@@ -11405,22 +11405,6 @@
     "tmdb_score": 8.526
   },
   {
-    "id": 727,
-    "title": "Dhurandhar 2",
-    "platform": null,
-    "rating": null,
-    "seasons_watched": null,
-    "status": "unwatched",
-    "watched": false,
-    "tmdb_id": 1582770,
-    "tmdb_type": "movie",
-    "matched_title": "Dhurandhar: The Revenge",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
-    "overview": "As rival gangs, corrupt officials and a ruthless Major Iqbal close in, Hamza's mission for his country spirals into a bloody personal war where the line between patriot and monster disappears in the streets of Lyari.",
-    "tmdb_score": 7.8
-  },
-  {
     "id": 728,
     "title": "Casino",
     "platform": "Netflix",
